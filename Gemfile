@@ -7,7 +7,7 @@ gem "hashie"
 
 group :development do 
 
-gem "pry", :groups => [:test]
+gem "pry"
 gem "rspec"
 
 end 
