@@ -8,7 +8,7 @@ gem "hashie"
 group :test do 
 
 gem "rspec"
-
+gem "pry", group: :development
 
 
 end 
