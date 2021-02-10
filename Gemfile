@@ -6,9 +6,6 @@ gem "awesome_print", git: "git@github.com:awesome-print/awesome_print.git"
 gem "hashie"
 
 group :test do 
-
 gem "rspec"
-gem "pry", : :development
-
-
 end 
+
